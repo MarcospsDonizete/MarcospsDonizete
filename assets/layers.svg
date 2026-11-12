@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="430" viewBox="0 0 460 430">
+  <rect width="460" height="430" rx="18" fill="#0B1F2A"/>
+  <text x="28" y="34" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#2DD4BF">// from the spatial database to the map</text>
+  
+  <g>
+    <path d="M190 280 L330 350 L190 420 L50 350Z" fill="#000" fill-opacity="0.25"/>
+    <path id="l0" d="M190 270 L330 340 L190 410 L50 340Z" fill="#14B8A6" fill-opacity="0.12" stroke="#2DD4BF" stroke-opacity="0.8" stroke-width="1.5"/>
+    <clipPath id="cp0"><path d="M190 270 L330 340 L190 410 L50 340Z"/></clipPath>
+    <g clip-path="url(#cp0)"><circle cx="131.3" cy="313.4" r="3.5" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="177.4" cy="319.8" r="2.4" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="241.9" cy="367.3" r="3.1" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="206.8" cy="304.4" r="3.6" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="240.2" cy="359.7" r="2.5" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="196.6" cy="308.4" r="2.6" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="111.2" cy="335.0" r="3.1" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="202.0" cy="372.6" r="2.2" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="235.7" cy="321.5" r="3.7" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="189.2" cy="336.4" r="2.9" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="214.8" cy="297.8" r="2.0" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="198.7" cy="390.9" r="3.6" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="167.8" cy="359.0" r="3.2" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="186.5" cy="324.3" r="2.5" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="157.6" cy="339.6" r="2.7" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="136.7" cy="316.6" r="2.3" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="203.9" cy="327.9" r="2.4" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="86.8" cy="342.9" r="3.1" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="88.7" cy="344.6" r="2.9" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="247.7" cy="333.7" r="3.1" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="280.2" cy="350.4" r="3.4" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="185.6" cy="330.9" r="3.5" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="119.1" cy="339.4" r="3.6" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="197.6" cy="291.1" r="2.3" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="218.8" cy="341.0" r="2.5" fill="#2DD4BF" fill-opacity="0.85"/><circle cx="188.4" cy="341.6" r="2.2" fill="#2DD4BF" fill-opacity="0.85"/></g>
+    <line x1="336" y1="340" x2="364" y2="340" stroke="#94A3B8" stroke-opacity="0.6" stroke-dasharray="3 3"/>
+    <text x="372" y="337" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#F1F5F9">PostGIS</text>
+    <text x="372" y="356" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#94A3B8">spatial data</text>
+  </g>
+  
+  <g>
+    <path d="M190 175 L330 245 L190 315 L50 245Z" fill="#000" fill-opacity="0.25"/>
+    <path id="l1" d="M190 165 L330 235 L190 305 L50 235Z" fill="#14B8A6" fill-opacity="0.16" stroke="#2DD4BF" stroke-opacity="0.8" stroke-width="1.5"/>
+    <clipPath id="cp1"><path d="M190 165 L330 235 L190 305 L50 235Z"/></clipPath>
+    <g clip-path="url(#cp1)"><g stroke="#2DD4BF" stroke-opacity="0.55" stroke-width="1"><line x1="225" y1="182.5" x2="85" y2="252.5"/><line x1="155" y1="182.5" x2="295" y2="252.5"/><line x1="260" y1="200" x2="120" y2="270"/><line x1="120" y1="200" x2="260" y2="270"/><line x1="295" y1="217.5" x2="155" y2="287.5"/><line x1="85" y1="217.5" x2="225" y2="287.5"/></g><path d="M155,217.5L190,235L155,252.5L120,235Z" fill="#2DD4BF" fill-opacity="0.35"/></g>
+    <line x1="336" y1="235" x2="364" y2="235" stroke="#94A3B8" stroke-opacity="0.6" stroke-dasharray="3 3"/>
+    <text x="372" y="232" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#F1F5F9">GeoServer</text>
+    <text x="372" y="251" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#94A3B8">WMS · tiles</text>
+  </g>
+  
+  <g>
+    <path d="M190 70 L330 140 L190 210 L50 140Z" fill="#000" fill-opacity="0.25"/>
+    <path id="l2" d="M190 60 L330 130 L190 200 L50 130Z" fill="#14B8A6" fill-opacity="0.22" stroke="#2DD4BF" stroke-opacity="0.8" stroke-width="1.5"/>
+    <clipPath id="cp2"><path d="M190 60 L330 130 L190 200 L50 130Z"/></clipPath>
+    <g clip-path="url(#cp2)"><path d="M148.0,81.0L183.0,112.5L225.0,126.5L253.0,168.5" fill="none" stroke="#F1F5F9" stroke-opacity="0.75" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M253.0,91.5L204.0,123.0L150.8,138.4L127.0,168.5" fill="none" stroke="#F1F5F9" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M225.0,126.5L190.0,172.0L155.0,182.5" fill="none" stroke="#F1F5F9" stroke-opacity="0.4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="271.20000000000005" cy="128.6" rx="16.8" ry="8.4" fill="none" stroke="#2DD4BF" stroke-opacity="0.6"/><ellipse cx="271.20000000000005" cy="128.6" rx="28" ry="14" fill="none" stroke="#2DD4BF" stroke-opacity="0.6"/><ellipse cx="271.20000000000005" cy="128.6" rx="39.2" ry="19.6" fill="none" stroke="#2DD4BF" stroke-opacity="0.6"/></g>
+    <line x1="336" y1="130" x2="364" y2="130" stroke="#94A3B8" stroke-opacity="0.6" stroke-dasharray="3 3"/>
+    <text x="372" y="127" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#F1F5F9">React</text>
+    <text x="372" y="146" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#94A3B8">MapLibre UI</text>
+  </g>
+  <ellipse cx="204" cy="123" rx="9" ry="4" fill="#000" fill-opacity="0.35"/><path d="M204 123 c-6 -12 -15 -18 -15 -29 a15 15 0 0 1 30 0 c0 11 -9 17 -15 29z" fill="#F59E0B"/><circle cx="204" cy="94" r="5.5" fill="#0B1F2A"/>
+</svg>
