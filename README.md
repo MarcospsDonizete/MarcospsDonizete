@@ -17,18 +17,22 @@ Java · Spring Boot · Python/Django · React · TypeScript · PostGIS · GeoSer
 ### About me
 
 Full-stack engineer with **5+ years** building web platforms end to end, from the spatial database to the
-user interface. I work on geointelligence products for the public sector: cloud GIS platforms, interactive
-maps, data pipelines and the APIs behind them. I care about measurable performance, data reliability and
-clear technical documentation.
+user interface. I work on geointelligence SaaS for the public sector, such as cloud GIS platforms for
+municipal real estate cadastre and taxation, interactive maps, data pipelines and the APIs behind them.
+
+I turn complex business rules into reliable, scalable software, with an AI-first workflow for planning and
+architecture and TDD to keep the code clean and well tested. I care about measurable performance, data
+integrity and clear technical documentation.
 
 ### Highlights
 
 | | |
 |---|---|
-| 🗺️ **Geographic data versioning** | Designed and built a pull-request-style review flow for map entities: propose, compare, edit, approve or reject with comments before publishing. Only validated, official data reaches citizens and municipal managers. |
+| 🗺️ **Geographic data versioning** | Designed and built a pull-request-style review flow for map entities: propose, compare, edit, approve or reject with justification before publishing. Only validated, official data reaches citizens and municipal managers. |
+| 🏛️ **Official data approval pipeline** | Architected a governance system for property records where every change to lots and taxes goes through sequential validation stages and is promoted to the official version only after final approval. |
 | ⚡ **60% faster load time** | Cut the home screen's average load time by parallelizing async calls in React (`Promise.all`) and consolidating several processes into a single Spring Boot endpoint. |
 | 📦 **200k+ entities in 2 minutes** | Rewrote a large-scale import with 10k-record batch inserts and leaner processing loops. |
-| 🌦️ **Weather geovisualization** | Built forecast maps from meteorological models (GFS/WMS) with dynamic spatial filters, plus dashboard alerts that pinpoint where critical thresholds (e.g. winds above 20 knots) are reached. |
+| 🌦️ **Weather geovisualization** | Built forecast maps from meteorological models (GFS/WMS) with dynamic filters that isolate, in real time, only the regions matching user-defined conditions (e.g. 10–20 °C), plus dashboard alerts that pinpoint where critical thresholds (e.g. winds above 20 knots) are reached. |
 
 ### Tech stack
 
@@ -60,12 +64,16 @@ clear technical documentation.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
+![TDD](https://img.shields.io/badge/TDD-C21325?style=flat)
+![AI-First](https://img.shields.io/badge/AI--First-6B4FBB?style=flat)
 
 ### Experience
 
 **Geopixel** · Software Developer · ~1.5 years
-Full-stack product engineering on a cloud GIS platform for municipal management (React, TypeScript,
-Java, Python/Django, GeoServer), starting in N3 support diagnosing complex incidents.
+Full-stack product engineering on a cloud GIS SaaS for municipal real estate cadastre: territorial and tax
+modules with React, TypeScript, Java/Spring Boot and Python/Django, integrated with PostGIS and GeoServer.
+Spatial queries in PostGIS, map data validation in QGIS, TDD and an AI-first delivery workflow. Started in
+N3 support, diagnosing and permanently fixing high-complexity incidents.
 
 **IACIT Soluções Tecnológicas** · Software Developer · 4+ years
 Full lifecycle of critical web applications, from requirements to maintenance, with React/Next.js,
