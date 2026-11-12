@@ -82,10 +82,6 @@ Full lifecycle of critical web applications, from requirements to maintenance, w
 Java/Spring Boot and Python/Django. Automated ingestion of meteorological models, route security and
 authentication, sprint planning and technical documentation.
 
-## Featured project
-
-**[Gaia](https://gaia.avelar.dev)**: my own web map application, built with MapLibre and OpenStreetMap tiles.
-
 ## Education
 
 - **Postgraduate in Software Engineering**, PUC Minas *(in progress)*: DevOps/DevSecOps, DDD, API security, GenAI for testing and documentation
@@ -94,8 +90,7 @@ authentication, sprint planning and technical documentation.
 
 ## Contact
 
-<a href="https://linkedin.com/in/marcospsdonizete-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://gaia.avelar.dev"><img src="https://img.shields.io/badge/Gaia_live_demo-16384D?style=for-the-badge&logo=googlemaps&logoColor=F59E0B" alt="Gaia live demo" /></a>
+<a href="https://linkedin.com/in/marcospsdonizete-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br>
 
